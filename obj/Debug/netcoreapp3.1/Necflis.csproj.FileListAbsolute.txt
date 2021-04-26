@@ -1,0 +1,13 @@
+D:\Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\Necflis\bin\Debug\netcoreapp3.1\Necflis.exe
+D:\Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\Necflis\bin\Debug\netcoreapp3.1\Necflis.deps.json
+D:\Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\Necflis\bin\Debug\netcoreapp3.1\Necflis.runtimeconfig.json
+D:\Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\Necflis\bin\Debug\netcoreapp3.1\Necflis.runtimeconfig.dev.json
+D:\Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\Necflis\bin\Debug\netcoreapp3.1\Necflis.dll
+D:\Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\Necflis\bin\Debug\netcoreapp3.1\Necflis.pdb
+D:\Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\Necflis\obj\Debug\netcoreapp3.1\Necflis.csprojAssemblyReference.cache
+D:\Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\Necflis\obj\Debug\netcoreapp3.1\Necflis.AssemblyInfoInputs.cache
+D:\Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\Necflis\obj\Debug\netcoreapp3.1\Necflis.AssemblyInfo.cs
+D:\Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\Necflis\obj\Debug\netcoreapp3.1\Necflis.csproj.CoreCompileInputs.cache
+D:\Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\Necflis\obj\Debug\netcoreapp3.1\Necflis.dll
+D:\Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\Necflis\obj\Debug\netcoreapp3.1\Necflis.pdb
+D:\Estudios Universitarios UMG\002 Segundo Año\001 Tercer Semestre\003 Programación I\Necflis\obj\Debug\netcoreapp3.1\Necflis.genruntimeconfig.cache
